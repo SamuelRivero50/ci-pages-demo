@@ -1,2 +1,2 @@
 def saludo():
-    return "Hola CI/CD!"
+    return "Hola CI/CD"
